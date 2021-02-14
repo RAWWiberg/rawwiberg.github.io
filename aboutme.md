@@ -1,16 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I an evolutionary biologist with an interest in sexual selection and conflict. I am aim to apply the methods of modern genomics to understanding how sexual selection and conflicts drive evolutionary change. I am currently a post-doc at the [University of Basel](http://evolution.unibas.ch/scharer/) where my work involves comparative genomics in a group of hermaphroditic flatworms.
