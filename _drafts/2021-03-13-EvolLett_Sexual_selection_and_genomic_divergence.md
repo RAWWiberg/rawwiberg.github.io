@@ -11,7 +11,8 @@ The project started long before I became a biologist, or even started my studies
 <figure>
   <img src="https://github.com/RAWWiberg/rawwiberg.github.io/blob/master/img/13-03-2021_timeline.png" alt="Timeline of the project"/>
   <figcaption>Figure 1. The timeline of the full project and the dates of publications.</figcaption>
-</figure>
+</figure>  
+
 
 This experiment was kept going for many generations, and rounds of funding, with several studies investigating what other evolutionary changes to males and females these altered mating systems had produced. In figure 1 (above) is a timeline of these studies spanning a total of nearly 20 years, and counting. There are too many to summarise here, but they are full of interesting results and you should definitely look them up. This most recent publication in *Evolution Letters* is the green dot.
 
