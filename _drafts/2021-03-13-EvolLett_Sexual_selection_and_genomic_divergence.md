@@ -6,14 +6,16 @@ subtitle: one of my PhD thesis chapters has been published
 
 This week I had a paper published in *Evolution Letters*. It's always a great feeling to get a paper through the trial-by-fire that is peer-review but this one was very special to me. The work we present was also the second chapter of my PhD thesis, and one of my favourite projects to work on during my studies, so it is very gratifying to have it finished. Here I'll give you some background to the project and an overview of what we found.
 
-|-![me](/img/13-03-2021_me5_2002.jpg)-|  
+|![me](/img/13-03-2021_me5_2002.jpg)|  
 |--|
-|-Your author ca. 2002-|
+|Your author ca. 2002|
 
 
 The project started long before I became a biologist, or even started my studies. In 2002, I (see above) was 14 years old and probably more concerned with pokémon and the intricacies of schoolyard politics than what fruitflies are getting up to in their daily lives. Meanwhile, [Rhonda Snook](https://www.su.se/english/profiles/rhsn2867-1.348903), who is now Professor at Stockholm University and was then at the University of Sheffield, was busy setting up an ambitious experiment. She was originally interested in understanding why males of the the fruitfly *Drosophila pseudoobscura* produce different types of sperm. The hypothesis was that **sexual selection**, the process produced by the competition between individuals over reproductive resources and mating opportunities, was involved. To directly test this idea, she set up an experimental evolution project which manipulated the sexual selection environment. The general approach, you set up different "environments" and let populations of flies evolve and adapt to these environments over many generations after which you can study the evolutionary response by comparing the organisms that have been evolving in the different environments. In one treatment (E: elevated promiscuity) individual females were kept in tube with six males for her reproductive life, while in another treatment (M: enforced monogamy) a female was kept with only a single male. The main difference between the treatments was therefore the level of competition among males for the reproductive resources of the female, generating strong sexual selection in the E treatment, and abolishing it in the M treatment. The same treatments were applied every generation, using the offspring emerging from the previous generation, with 1 generation being ~30 days. Each treatment was replicated 4 times so that maintaining each generation involved ~2000 flies that had to be fed, moved around, and maintained every month. I will let you read more about the results with respect to how these treatments affected the sperm morphology of males [here](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1558-5646.2008.00601.x) (spoiler: it's surprising!).
 
-![Timeline](/img/13-03-2021_timeline.png)  
+|![Timeline](/img/13-03-2021_timeline.png)|  
+|--|
+|The timeline of the project|
 
 This experiment was kept going for many generations, and rounds of funding, with several studies investigating what other evolutionary changes to males and females these altered mating systems had produced. In figure 1 (above) is a timeline of these studies spanning a total of nearly 20 years, and counting. There are too many to summarise here, but they are full of interesting results and you should definitely look them up. This most recent publication in *Evolution Letters* is the green dot.
 
@@ -25,7 +27,9 @@ We already knew that there were [differences between the E and M lines in gene e
 
 This problem of identifying genetic changes, at the whole-genome scale, led me down an unexpected detour evaluating different statistical approaches and eventually propose some improvements in a separate paper in [*Methods in Ecology and Evolution*](https://doi.org/10.1111/2041-210X.12810)). In the current *Evolution Letters* paper we show that there have indeed been many genetic changes between the two treatments. We also show that there are more differences than expected by random fluctuations in allele frequencies alone. We also show that these changes occur in quite distinct clusters in the genome (see, for example, (1) in the figure below). We were also able to show that, in many cases, the regions of the genome within these clusters show reduced genetic variation within the E or M treatments (see (2) in the figure below for a reduction in diversity in E but not M lines under the peak of genetic differences). Such reductions in diversity are very characteristic signals of selection within genomes. These regions also contain several interesting genes that are known to be involved in mating behaviours and other traits related to reproduction. genes that stand out include seminal fluid proteins. These are proteins that are passed to females during mating and have a variety of effects on the physiology of mated females, making them very good candidates for sexual selection. Finally, the changes between E and M lines are over-represented on the X-chromosome, which is thought to be a "hot-spot" for genes under sexual selection.
 
-![Graphical Abstract](/img/13-03-2021_graphical_abstract.png)  
+|![Graphical Abstract](/img/13-03-2021_graphical_abstract.png)|  
+|--|
+|A small depiction of the main findings and outcomes|
 
 In summary, this paper is an important contribution to the field of evolutionary biology. We are able to isolate the process of sexual selection from other factors and investigate direct changes in response to this process. This has been a challenge in comparisons of natural systems where populations and species often vary in many different aspects. Fully understanding the consequences of these genetic changes will require more work but we are super excited to have taken one more step in understanding the role of sexual selection as an evolutionary force.
 
