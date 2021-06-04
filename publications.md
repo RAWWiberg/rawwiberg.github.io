@@ -6,9 +6,9 @@ If you have trouble accessing the PDFs via the links below, send me an e-mail.
 **2021**  
 \[preprint/submitted\] Jeremias N. Brand, Gudrun Viktorin, R. Axel W. Wiberg, Christian Beisel & Lukas Schärer. Large-scale phylogenomics of the genus Macrostomum (Platyhelminthes) reveals cryptic diversity and novel sexual traits *bioRxiv*. doi: [https://doi.org/10.1101/2021.03.28.437366](https://doi.org/10.1101/2021.03.28.437366)
 
-\[preprint/submitted\] **R. Axel W. Wiberg\***, Venera, Tyukmaeva, Anneli Hoikkala, Michael G. Ritchie, & Maaria Kankare. Cold adaptation drives population genomic divergence in the ecological specialist, *Drosophila montana*. *bioRxiv*. doi: [https://doi.org/10.1101/2020.04.20.050450](https://doi.org/10.1101/2020.04.20.050450)
-
 \[preprint\] **R. Axel W. Wiberg\***, Tom A. R. Price, Nina Wedell & Michael G. Ritchie. Identifying genomic markers associated with female re-mating rate in *Drosophila pseudoobscura* by replicated bulk segregant analysis. *bioRxiv*. doi: [https://doi.org/10.1101/2020.04.20.049940](https://doi.org/10.1101/2020.04.20.049940)
+
+\[in press\] **R. Axel W. Wiberg\***, Venera, Tyukmaeva, Anneli Hoikkala, Michael G. Ritchie, & Maaria Kankare. Cold adaptation drives population genomic divergence in the ecological specialist, *Drosophila montana*. *Molecular Ecology*. doi: [https://doi.org/10.1111/mec.16003](https://doi.org/10.1111/mec.16003)
 
 **R. Axel W. Wiberg\***, Paris Veltsos, Rhonda R. Snook & Michael G. Ritchie. Experimental evolution confirms signatures of sexual selection in genomic divergence. *Evolution Letters.* doi: [ https://doi.org/10.1002/evl3.220](https://doi.org/10.1101/2020.09.07.285650)
 
