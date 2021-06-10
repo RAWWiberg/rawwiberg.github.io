@@ -10,7 +10,7 @@ If you have trouble accessing the PDFs via the links below, send me an e-mail.
 
 \[in press\] **R. Axel W. Wiberg\***, Venera, Tyukmaeva, Anneli Hoikkala, Michael G. Ritchie, & Maaria Kankare. Cold adaptation drives population genomic divergence in the ecological specialist, *Drosophila montana*. *Molecular Ecology*. doi: [https://doi.org/10.1111/mec.16003](https://doi.org/10.1111/mec.16003)
 
-**R. Axel W. Wiberg\***, Paris Veltsos, Rhonda R. Snook & Michael G. Ritchie. Experimental evolution confirms signatures of sexual selection in genomic divergence. *Evolution Letters.* doi: [ https://doi.org/10.1002/evl3.220](https://doi.org/10.1101/2020.09.07.285650)
+**R. Axel W. Wiberg\* **, Paris Veltsos, Rhonda R. Snook & Michael G. Ritchie. Experimental evolution confirms signatures of sexual selection in genomic divergence. *Evolution Letters.* **5**: 214-229. [PDF](https://doi.org/10.1002/evl3.220)
 
 Nicolas Dussex<sup>1</sup>, Verena E. Kutschera<sup>1</sup>, **R. Axel W. Wiberg**<sup>1</sup>, Darren Parker, Gavin R. Hunt, Russell D. Gray, Kim Rutherford, Hideaki Abe, Rob Fleischer, Christian Rutz, Michael G. Ritchie, Jochen B.W. Wolf, Neil J. Gemmell. 2021. A genome-wide investigation of adaptations related to tool use behaviour in New Caledonian and Hawaiian crows. *Molecular Ecology*. **30**: 973-986. [PDF](https://doi.org/10.1111/mec.15775)
 
