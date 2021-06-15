@@ -11,7 +11,7 @@ This paper was part of a long-standing collaboration between my PhD supervisor, 
 *D. montana* is the most cold-tolerant species of *Drosophila* and can occur at very high latitudes throughout the northern hemisphere. It also exhibits an adaptive overwintering behaviour whereby females that have emerged late in the year, instead of reproducing, enter an overwintering state called 'diapause'. They then emerge again in spring to reproduce. Populations of *D. montana* also exhibit a certain extent of reproductive isolation, a crucial stage of speciation whereby individuals from different diverging populations of the same species start to have trouble producing offspring when mating with individuals from the other population. This makes the species an ideal model system for the study speciation. Other work on this species has shown, for example, that [females tend to prefer the songs of males from their population](https://doi.org/10.1111/j.1558-5646.2007.00125.x), and that [crosses between individuals from different populations produce fewer eggs and offspring](https://doi.org/10.1111/evo.12535) than crosses between individuals from the same population.
 
 
-|![D. montana female and Map](/img/15-06-2021female_and_map.png)|  
+|![D. montana female and Map](/img/15-06-2021_female_and_map.png)|  
 |--|  
 |A female *D. montana* (credit to Anneli Hoikkala for the image). Shown in the maps are locations of the populations we sampled. Populations in red were used for genetic analyses|  
 
