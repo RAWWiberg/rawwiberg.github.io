@@ -1,0 +1,33 @@
+---
+layout: post
+title: Flies, genomes, and ecology
+subtitle: Another one of my PhD thesis chapters has been published
+---
+
+[Not long ago]() I wrote about one chapter of my PhD thesis that was published and this week I had another paper published in *Molecular Ecology*. We first submitted it in spring of 2020 and got reviews back after a few weeks. The combination of a pandemic, many other ongoing projects, and me generally not firing on all cylinders this past year led to us taking a year to make changes, additional analyses, and finally submitting a revised version of the manuscript in April of this year. Completing a project from data collection to publication is often a bit of a test of endurance.
+
+This paper was part of a long-standing collaboration between my PhD supervisor, Professor [Mike Ritchie](https://risweb.st-andrews.ac.uk/portal/en/persons/michael-gordon-ritchie(7d2c2deb-821c-48a4-93c6-f60e3b5584cb).html), and Finnish colleagues from the University of Jyväskyla: Dr. [Maaria Kankare](https://www.jyu.fi/science/en/bioenv/staff-and-administration/staff/kankare-maaria) and Professor [Anneli Hoikkala](https://www.jyu.fi/science/en/bioenv/staff-and-administration/staff/hoikkala-anneli-1) (now retired). Mike, Maaria, and Anneli have worked for several years to understand the evolution of cold-tolerance and population divergence in *Drosophila montana*.
+
+*D. montana* is the most cold-tolerant species of *Drosophila* and can occur at very high latitudes throughout the northern hemisphere. It also exhibits an adaptive overwintering behaviour whereby females that have emerged late in the year, instead of reproducing, enter an overwintering state called 'diapause'. They then emerge again in spring to reproduce. Populations of *D. montana* also exhibit a certain extent of reproductive isolation, a crucial stage of speciation whereby individuals from different diverging populations of the same species start to have trouble producing offspring when mating with individuals from the other population. This makes the species an ideal model system for the study speciation. Other work on this species has shown, for example, that [females tend to prefer the songs of males from their population](https://doi.org/10.1111/j.1558-5646.2007.00125.x), and that [crosses between individuals from different populations produce fewer eggs and offspring](https://doi.org/10.1111/evo.12535) than crosses between individuals from the same population.
+
+
+|![D. montana female and Map](/img/15-06-2021female_and_map.png)|  
+|--|  
+|A female *D. montana* (credit to Anneli Hoikkala for the image). Shown in the maps are locations of the populations we sampled. Populations in red were used for genetic analyses|  
+
+In our study we wanted to identify regions of the genome where genetic differences between populations was associated with ecological differences between populations. We investigated 24 populations to get a sense of how ecology varies across populations. We then generated genome-sequencing data from 6 of these populations. For these 6 populations we also conducted standard experiments to determine how cold-tolerant they are. We now had ecological variables that represented local climate and seasonality as well as phenotypic data that represented the degree of cold-tolerance in each of 6 populations. We also had genome-sequencing data that gave us the frequencies of specific alleles at ~2 million genetic markers in each population. We then identified genetic markers where the allele frequency differences between pulations was associated with ecological differences between populations. Importantly, the method we used could account for similarities between populations that were due to them sharing a common ancestral population, a common confounding factor when dealing with natural populations.
+
+Depending on the ecological/phenotypic variable we used, we identified between XXX and XXX markers with a strong association in allele frequencies. We could then identify which genes were near these genetic markers as well as the biochemical or metabolic processes that these genes are involved in. It turns out that we get very similar results when using either the climatic data or the phenotypic data. This suggests that the differences in climate/seasonality between populations is really responsible for the differences in phenotypes between populations, and that both are associated with the same genetic differences. In other words, differences in climate selects for particular phenotypes, which results in changes in allele frequencies across populations. Evolution by natural selection in a nutshell!
+
+A really cool part of this paper for me is that we were able to link the differences between popoulations quite robustly to results from previous studies in two important ways. First, genes and metabolic processes that have been implicated in being part of the underlying mechanism of [cold-tolerance](https://doi.org/10.1038/hdy.2015.6) and [diapause behaviour](https://doi.org/10.1242/jeb.205831), from previous studies were also shown to be within these regions of the genome that showed strong differences between populations that were related to local climatic conditions. This is a strong signal that these different ecological conditions encountered by different populations are driving evolutionary change in the genome.
+
+Second, many of these same genes and processes have been shown to be important in setting [*D. montana* apart from other *Drosophila* species](https://doi.org/10.1093/gbe/evy147). This suggests that the same process that continues to drive divergence across populations *within* the species, namely adaptation in response to local ecological conditions, has also driven the divergence of *D. montana* from other closely related species. This result is therefore a really nice way-marker on the continuum between genetic differences between populations and the origin of new species. The results of many years of work on this species is painting a picture of the very process of biological evolution by natural selection.
+
+There are several other interesting results in the paper that will require more work to understand.
+
+My co-authors in on this paper were alond with a former lab-mate of mine [Venera Tyukmaeva](https://scholar.google.com/citations?user=UmufKn4AAAAJ&hl=en), Anneli Hoikkala, Mike Ritchie, and Maaria Kankare.
+The full paper is open access, and you can read the paper [here](https://doi.org/10.1002/evl3.220) if you want to learn more about this. Once again, please get in touch if you have questions!
+
+
+
+
