@@ -71,7 +71,7 @@ social-network-links:
 # --- General options --- #
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://jeremias-brand.github.io"
+url: "http://rawwiberg.github.io"
 baseurl: ""
 
 # Select which social network share links to show in posts
