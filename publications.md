@@ -8,7 +8,7 @@ If you have trouble accessing the PDFs via the links below, send me an e-mail.
 
 \[preprint\] **R. Axel W. Wiberg\***, Tom A. R. Price, Nina Wedell & Michael G. Ritchie. Identifying genomic markers associated with female re-mating rate in *Drosophila pseudoobscura* by replicated bulk segregant analysis. *bioRxiv*. doi: [https://doi.org/10.1101/2020.04.20.049940](https://doi.org/10.1101/2020.04.20.049940)
 
-**R. Axel W. Wiberg\* **, Venera, Tyukmaeva, Anneli Hoikkala, Michael G. Ritchie, & Maaria Kankare. Cold adaptation drives population genomic divergence in the ecological specialist, *Drosophila montana*. *Molecular Ecology*. [PDF](https://doi.org/10.1111/mec.16003)
+**R. Axel W. Wiberg\***, Venera, Tyukmaeva, Anneli Hoikkala, Michael G. Ritchie, & Maaria Kankare. Cold adaptation drives population genomic divergence in the ecological specialist, *Drosophila montana*. *Molecular Ecology*. [PDF](https://doi.org/10.1111/mec.16003)
 
 **R. Axel W. Wiberg\***, Paris Veltsos, Rhonda R. Snook & Michael G. Ritchie. Experimental evolution confirms signatures of sexual selection in genomic divergence. *Evolution Letters.* **5**: 214-229. [PDF](https://doi.org/10.1002/evl3.220)
 
