@@ -3,16 +3,20 @@ If you have trouble accessing the PDFs via the links below, send me an e-mail.
 (\* - corresponding author, 1 - joint first author)
 
 
+**2022**  
+Leonor R. Rodrigues<sup>1</sup>, Martyna K. Zwoinska<sup>1</sup>, **R. Axel W. Wiberg**<sup>1</sup>, Rhonda R. Snook. (2022). The genetic basis and adult reproductive consequences of developmental thermal plasticity. *Journal of Animal Ecology* **XX**: XX-XX [PDF]()
+
+Jeremias N. Brand, Gudrun Viktorin, **R. Axel W. Wiberg**, Christian Beisel & Lukas Schärer. (2022). Large-scale phylogenomics of the genus Macrostomum (Platyhelminthes) reveals cryptic diversity and novel sexual traits. *Molecular Phylogenetics and Evolution* **166**: 107296.[PDF](https://doi.org/10.1016/j.ympev.2021.107296)
+
+
 **2021**  
-\[preprint/submitted\] Jeremias N. Brand, Gudrun Viktorin, **R. Axel W. Wiberg**, Christian Beisel & Lukas Schärer. Large-scale phylogenomics of the genus Macrostomum (Platyhelminthes) reveals cryptic diversity and novel sexual traits *bioRxiv*. doi: [https://doi.org/10.1101/2021.03.28.437366](https://doi.org/10.1101/2021.03.28.437366)
+**R. Axel W. Wiberg\***, Jeremias N. Brand & Lukas Schärer. (2021). Faster rates of molecular sequence evolution in reproduction-related genes and in species with hypodermic sperm morphologies. *Molecular Biology and Evolution*. **38**: 5685-5703. [PDF](https://doi.org/10.1093/molbev/msab276)
 
-\[preprint\] **R. Axel W. Wiberg\***, Tom A. R. Price, Nina Wedell & Michael G. Ritchie. Identifying genomic markers associated with female re-mating rate in *Drosophila pseudoobscura* by replicated bulk segregant analysis. *bioRxiv*. doi: [https://doi.org/10.1101/2020.04.20.049940](https://doi.org/10.1101/2020.04.20.049940)
+**R. Axel W. Wiberg\***, Venera, Tyukmaeva, Anneli Hoikkala, Michael G. Ritchie, & Maaria Kankare. (2021). Cold adaptation drives population genomic divergence in the ecological specialist, *Drosophila montana*. *Molecular Ecology*. **30**: 3783-3796 [PDF](https://doi.org/10.1111/mec.16003)
 
-**R. Axel W. Wiberg\***, Venera, Tyukmaeva, Anneli Hoikkala, Michael G. Ritchie, & Maaria Kankare. Cold adaptation drives population genomic divergence in the ecological specialist, *Drosophila montana*. *Molecular Ecology*. [PDF](https://doi.org/10.1111/mec.16003)
+**R. Axel W. Wiberg\***, Paris Veltsos, Rhonda R. Snook & Michael G. Ritchie. (2021). Experimental evolution confirms signatures of sexual selection in genomic divergence. *Evolution Letters.* **5**: 214-229. [PDF](https://doi.org/10.1002/evl3.220)
 
-**R. Axel W. Wiberg\***, Paris Veltsos, Rhonda R. Snook & Michael G. Ritchie. Experimental evolution confirms signatures of sexual selection in genomic divergence. *Evolution Letters.* **5**: 214-229. [PDF](https://doi.org/10.1002/evl3.220)
-
-Nicolas Dussex<sup>1</sup>, Verena E. Kutschera<sup>1</sup>, **R. Axel W. Wiberg**<sup>1</sup>, Darren Parker, Gavin R. Hunt, Russell D. Gray, Kim Rutherford, Hideaki Abe, Rob Fleischer, Christian Rutz, Michael G. Ritchie, Jochen B.W. Wolf, Neil J. Gemmell. 2021. A genome-wide investigation of adaptations related to tool use behaviour in New Caledonian and Hawaiian crows. *Molecular Ecology*. **30**: 973-986. [PDF](https://doi.org/10.1111/mec.15775)
+Nicolas Dussex<sup>1</sup>, Verena E. Kutschera<sup>1</sup>, **R. Axel W. Wiberg**<sup>1</sup>, Darren Parker, Gavin R. Hunt, Russell D. Gray, Kim Rutherford, Hideaki Abe, Rob Fleischer, Christian Rutz, Michael G. Ritchie, Jochen B.W. Wolf, Neil J. Gemmell. (2021). A genome-wide investigation of adaptations related to tool use behaviour in New Caledonian and Hawaiian crows. *Molecular Ecology*. **30**: 973-986. [PDF](https://doi.org/10.1111/mec.15775)
 
 
 **2020**  
@@ -45,3 +49,7 @@ Darren J. Parker, **R. Axel W. Wiberg**, Urmi Trivedi, Venera I. Tyukmaeva, Kari
 Christopher B. Cunningham, Lexiang Ji, R. Axel W. Wiberg, Jennifer Shelton, Elizabeth C. McKinney , Darren J. Parker, Richard B. Meagher, Kyle M. Benowitz, Eileen M. Roy-Zokan, Michael G. Ritchie, Susan J. Brown, Robert J. Schmitz, Allen J. Moore. (2015). The genome and methylome of a beetle with complex social behavior, *Nicrophorus vespilloides* (Coleoptera: Silphidae). Genome Biology and Evolution **7**:3383-3396. [PDF](https://doi.org/10.1093/gbe/evv194)
 
 **R. Axel W. Wiberg\***, Daniel L. Halligan, Rob W. Ness, Anamaria Necsulea, Henrik Kaessmann, Peter D. Keightley. (2015). Assessing recent selection and functionality at long non-coding RNA loci in the mouse genome. Genome Biology and Evolution **7**:2432-2444. [PDF](https://doi.org/10.1093/gbe/evv155)
+
+**Preprints**
+\[preprint\] **R. Axel W. Wiberg\***, Tom A. R. Price, Nina Wedell & Michael G. Ritchie. Identifying genomic markers associated with female re-mating rate in *Drosophila pseudoobscura* by replicated bulk segregant analysis. *bioRxiv*. doi: [https://doi.org/10.1101/2020.04.20.049940](https://doi.org/10.1101/2020.04.20.049940)
+
