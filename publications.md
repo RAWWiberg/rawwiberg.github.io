@@ -4,7 +4,7 @@ If you have trouble accessing the PDFs via the links below, send me an e-mail.
 
 
 **2022**  
-Leonor R. Rodrigues<sup>1</sup>, Martyna K. Zwoinska<sup>1</sup>, **R. Axel W. Wiberg**<sup>1</sup>, Rhonda R. Snook. (2022). The genetic basis and adult reproductive consequences of developmental thermal plasticity. *Journal of Animal Ecology* **XX**: XX-XX [PDF]()
+Leonor R. Rodrigues<sup>1</sup>, Martyna K. Zwoinska<sup>1</sup>, **R. Axel W. Wiberg**<sup>1</sup>, Rhonda R. Snook. (2022). The genetic basis and adult reproductive consequences of developmental thermal plasticity. *Journal of Animal Ecology* **XX**: XX-XX [PDF](https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2656.13664)
 
 Jeremias N. Brand, Gudrun Viktorin, **R. Axel W. Wiberg**, Christian Beisel & Lukas Schärer. (2022). Large-scale phylogenomics of the genus Macrostomum (Platyhelminthes) reveals cryptic diversity and novel sexual traits. *Molecular Phylogenetics and Evolution* **166**: 107296.[PDF](https://doi.org/10.1016/j.ympev.2021.107296)
 
@@ -52,4 +52,10 @@ Christopher B. Cunningham, Lexiang Ji, R. Axel W. Wiberg, Jennifer Shelton, Eliz
 
 **Preprints**
 \[preprint\] **R. Axel W. Wiberg\***, Tom A. R. Price, Nina Wedell & Michael G. Ritchie. Identifying genomic markers associated with female re-mating rate in *Drosophila pseudoobscura* by replicated bulk segregant analysis. *bioRxiv*. doi: [https://doi.org/10.1101/2020.04.20.049940](https://doi.org/10.1101/2020.04.20.049940)
+
+\[preprint\] **R. Axel W. Wiberg\***, Gudrun Viktorin & Lukas Schärer. Gene presence/absence patterns and their relation to differences in mating strategies in *Macrostomum*. *bioRxiv*. doi: [https://www.biorxiv.org/content/10.1101/2022.04.25.489193v1.full](https://www.biorxiv.org/content/10.1101/2022.04.25.489193v1.full) 
+
+\[preprint\] **R. Axel W. Wiberg\***, Rosalind L. Murray, Elizabeth Herridge, Darryl T. Gwynne & Luc F. Bussière. Deceptive female display signals drive coevolution of remarkable eye dimorphism among dance flies (Diptera: Empididae). *bioRxiv*. doi: [https://doi.org/10.1101/2022.03.14.484300](https://doi.org/10.1101/2022.03.14.484300) 
+
+
 
