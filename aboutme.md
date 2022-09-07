@@ -18,9 +18,9 @@ For my M.Sc. thesis I assessed the signal of recent selection at long non-coding
 For my B.Sc. thesis I studied sexual dimorphism in dance flies (Diptera: Empididae). Species vary in the levels of female ornamentation and in exaggerated male eye structures. Sexual conflict over matings and nuptial gift resource allocation as well as sexually antagonistic coevolution offer compelling explanations for patterns of covariation in male eye exaggerations and female ornamentation seen across taxa in this group of flies.
 
 **CV in brief**  
-2022-Present : Post-doc, Immonen group, Uppsala University
-2017-2021 : Post-doc, Schärer group, University of Basel
-2013-2017 : Ph.D. in Evolutionary Biology and Genomics, University of St Andrews, Scotland, (Supervised by Professor Mike Ritchie)
-2012-2013 : M.Sc. in Quantitative Genetics and Genome Analysis, University of Edinburgh, Scotland
-2008-2012 : B.Sc. in Animal Biology, University of Stirling, Scotland
-1988 : Born, in Finland
+2022-Present : Post-doc, Immonen group, Uppsala University  
+2017-2021 : Post-doc, Schärer group, University of Basel  
+2013-2017 : Ph.D. in Evolutionary Biology and Genomics, University of St Andrews, Scotland, (Supervised by Professor Mike Ritchie)  
+2012-2013 : M.Sc. in Quantitative Genetics and Genome Analysis, University of Edinburgh, Scotland  
+2008-2012 : B.Sc. in Animal Biology, University of Stirling, Scotland  
+1988 : Born, in Finland  
