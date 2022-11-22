@@ -4,7 +4,7 @@ If you have trouble accessing the PDFs via the links below, send me an e-mail.
 
 
 **2022**  
-\[accepted\] **R. Axel W. Wiberg\***, Gudrun Viktorin & Lukas Schärer. Gene presence/absence patterns and their relation to differences in mating strategies in *Macrostomum*. *Evolution* **XX**: XX-XX. a preprint is available at [https://www.biorxiv.org/content/10.1101/2022.04.25.489193v1.full](https://www.biorxiv.org/content/10.1101/2022.04.25.489193v1.full)
+**R. Axel W. Wiberg\***, Gudrun Viktorin & Lukas Schärer. Gene presence/absence patterns and their relation to differences in mating strategies in *Macrostomum*. *Evolution* **XX**: XX-XX. [PDD](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.14635)
 
 Leonor R. Rodrigues<sup>1</sup>, Martyna K. Zwoinska<sup>1</sup>, **R. Axel W. Wiberg**<sup>1</sup>, Rhonda R. Snook. (2022). The genetic basis and adult reproductive consequences of developmental thermal plasticity. *Journal of Animal Ecology* **91**: 1119-1134. [PDF](https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2656.13664)
 
