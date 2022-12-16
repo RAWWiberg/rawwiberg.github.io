@@ -2,9 +2,11 @@
 If you have trouble accessing the PDFs via the links below, send me an e-mail.  
 (\* - corresponding author, 1 - joint first author)
 
+**2023**
+**\[in press\]** Elina Immonen, Ahmed Sayadi, Biljana Stojković, Uroš Savković, Mirko Đorđević,7 Johanna Liljestrand-Rönn, **R. Axel W. Wiberg**, Göran Arnqvist. Experimental life history evolution results in sex specific evolution of gene expression in seed beetles. *Genome Biology and Evolution* **XX**: XX-XX.
 
 **2022**  
-**R. Axel W. Wiberg\***, Gudrun Viktorin & Lukas Schärer. Gene presence/absence patterns and their relation to differences in mating strategies in *Macrostomum*. *Evolution* **XX**: XX-XX. [PDF](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.14635)
+**R. Axel W. Wiberg\***, Gudrun Viktorin & Lukas Schärer. Gene presence/absence patterns and their relation to differences in mating strategies in *Macrostomum*. *Evolution* **76**: 3054-3066. [PDF](https://doi.org/10.1111/evo.14635)
 
 Leonor R. Rodrigues<sup>1</sup>, Martyna K. Zwoinska<sup>1</sup>, **R. Axel W. Wiberg**<sup>1</sup>, Rhonda R. Snook. (2022). The genetic basis and adult reproductive consequences of developmental thermal plasticity. *Journal of Animal Ecology* **91**: 1119-1134. [PDF](https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2656.13664)
 
