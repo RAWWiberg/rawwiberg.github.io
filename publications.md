@@ -2,8 +2,15 @@
 If you have trouble accessing the PDFs via the links below, send me an e-mail.  
 (\* - corresponding author, 1 - joint first author)
 
+**2024**
+**R. Axel W. Wiberg\***, Rosalind L. Murray, Elizabeth Herridge, Varpu Pärssinen, Darryl T. Gwynne & Luc F. Bussière. Sexually antagonistic co-evolution can explain female display signals and male sensory adaptations. *Evolution*. XX:XX-XX. [PDF](https://academic.oup.com/evolut/advance-article-pdf/doi/10.1093/evolut/qpae133/59459334/qpae133.pdf)
+
 **2023**
-**\[in press\]** Elina Immonen, Ahmed Sayadi, Biljana Stojković, Uroš Savković, Mirko Đorđević,7 Johanna Liljestrand-Rönn, **R. Axel W. Wiberg**, Göran Arnqvist. Experimental life history evolution results in sex specific evolution of gene expression in seed beetles. *Genome Biology and Evolution* **XX**: XX-XX.
+**R. Axel W. Wiberg\***, Jeremias N. Brand, Gudrun Viktorin, Jack Mitchell, Christian Beisel, Lukas Schärer. Genome assemblies of the simultaneously hermaphroditic flatworms Macrostomum cliftonense and Macrostomum hystrix. *G3 Genes|Genomes|Genetics*. **13**: jkad149. [PDF](https://academic.oup.com/g3journal/article-pdf/13/9/jkad149/56720105/jkad149.pdf)
+
+Philipp Kaufmann, **R. Axel W. Wiberg**, Konstantinos Papachristos, Douglas G. Scofield, Christian Tellgren-Roth, Elina Immonen. Y-linked copy number polymorphism of target of rapamycin (TOR) is associated with sexual size dimorphism in seed beetles. *Molecular Biology and Evolution*. **40**: msad167. [PDF](https://academic.oup.com/mbe/article-pdf/40/8/msad167/51089654/msad167.pdf)
+
+Elina Immonen, Ahmed Sayadi, Biljana Stojković, Uroš Savković, Mirko Đorđević,7 Johanna Liljestrand-Rönn, **R. Axel W. Wiberg**, Göran Arnqvist. Experimental life history evolution results in sex specific evolution of gene expression in seed beetles. *Genome Biology and Evolution* **15**: 1-15. [PDF](https://academic.oup.com/gbe/article-pdf/15/1/evac177/48597495/evac177.pdf)
 
 **2022**  
 **R. Axel W. Wiberg\***, Gudrun Viktorin & Lukas Schärer. Gene presence/absence patterns and their relation to differences in mating strategies in *Macrostomum*. *Evolution* **76**: 3054-3066. [PDF](https://doi.org/10.1111/evo.14635)
@@ -54,10 +61,8 @@ Christopher B. Cunningham, Lexiang Ji, R. Axel W. Wiberg, Jennifer Shelton, Eliz
 
 **R. Axel W. Wiberg\***, Daniel L. Halligan, Rob W. Ness, Anamaria Necsulea, Henrik Kaessmann, Peter D. Keightley. (2015). Assessing recent selection and functionality at long non-coding RNA loci in the mouse genome. Genome Biology and Evolution **7**: 2432-2444. [PDF](https://doi.org/10.1093/gbe/evv155)
 
+
 **Preprints**
 \[preprint\] **R. Axel W. Wiberg\***, Tom A. R. Price, Nina Wedell & Michael G. Ritchie. Identifying genomic markers associated with female re-mating rate in *Drosophila pseudoobscura* by replicated bulk segregant analysis. *bioRxiv*. doi: [https://doi.org/10.1101/2020.04.20.049940](https://doi.org/10.1101/2020.04.20.049940)
-
-\[preprint\] **R. Axel W. Wiberg\***, Rosalind L. Murray, Elizabeth Herridge, Darryl T. Gwynne & Luc F. Bussière. Deceptive female display signals drive coevolution of remarkable eye dimorphism among dance flies (Diptera: Empididae). *bioRxiv*. doi: [https://doi.org/10.1101/2022.03.14.484300](https://doi.org/10.1101/2022.03.14.484300) 
-
 
 
