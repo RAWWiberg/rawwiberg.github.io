@@ -16,8 +16,8 @@ author: R. Axel W. Wiberg
 navbar-links:
   About Me: "aboutme"
   Research Group: "group"
-  Publications: "publications"  
-  CV: "http://rawwiberg.github.io/files/CV_RAWW_brief.pdf"
+  Publications: "publications"
+  CV: "http://rawwiberg.github.io/files/CV_RAWW_brief.pdf"  
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
