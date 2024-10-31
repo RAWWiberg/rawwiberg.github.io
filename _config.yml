@@ -14,10 +14,10 @@ author: R. Axel W. Wiberg
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Research Interests: "aboutme"
   Research Group: "group"
-  Publications: "publications"
   CV: "http://rawwiberg.github.io/files/CV_RAWW_brief.pdf"
+  Publications: "publications"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
@@ -42,6 +42,7 @@ navbar-links:
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
+  name: "R. Axel W. Wiberg"
   email: "raw.wiberg@protonmail.com"
   #facebook: deanattali
   github: "RAWWiberg"
