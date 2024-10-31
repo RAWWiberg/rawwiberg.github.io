@@ -1,9 +1,8 @@
 ---
 layout: post
-title: 
+title: Rapid evolution of reproduction-related genes in a group of hermaphroditic flatworms.
 subtitle: My contributions to a large comparative project bear fruit.
 ---
-
 
 
 My co-authors in on this paper were [Jeremias Brand](https://jeremias-brand.github.io/), and [Lukas Schärer](http://evolution.unibas.ch/scharer/index.htm).
