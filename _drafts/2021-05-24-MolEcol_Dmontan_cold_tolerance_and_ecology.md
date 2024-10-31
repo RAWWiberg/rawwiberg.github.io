@@ -29,7 +29,7 @@ A really cool part of this paper for me is that we were able to link the differe
 
 The work is not done, of course, there are several other interesting results in the paper that will require more work by us to understand. We're not putting anyone out of a job just yet.
 
-My co-authors in on this paper were alond with a former lab-mate of mine [Venera Tyukmaeva](https://scholar.google.com/citations?user=UmufKn4AAAAJ&hl=en), Anneli Hoikkala, Mike Ritchie, and Maaria Kankare.
+My co-authors in on this paper were along with a former lab-mate of mine [Venera Tyukmaeva](https://scholar.google.com/citations?user=UmufKn4AAAAJ&hl=en), Anneli Hoikkala, Mike Ritchie, and Maaria Kankare.
 The full paper is open access, and you can read the paper [here](https://doi.org/10.1002/evl3.220) if you want to learn more about this. Once again, please get in touch if you have questions!
 
 

@@ -5,12 +5,14 @@ If you have trouble accessing the PDFs via the links below, send me an e-mail.
 **2024**
 **R. Axel W. Wiberg\***, Rosalind L. Murray, Elizabeth Herridge, Varpu Pärssinen, Darryl T. Gwynne & Luc F. Bussière. Sexually antagonistic co-evolution can explain female display signals and male sensory adaptations. *Evolution*. XX:XX-XX. [PDF](https://academic.oup.com/evolut/advance-article-pdf/doi/10.1093/evolut/qpae133/59459334/qpae133.pdf)
 
+
 **2023**
 **R. Axel W. Wiberg\***, Jeremias N. Brand, Gudrun Viktorin, Jack Mitchell, Christian Beisel, Lukas Schärer. Genome assemblies of the simultaneously hermaphroditic flatworms Macrostomum cliftonense and Macrostomum hystrix. *G3 Genes|Genomes|Genetics*. **13**: jkad149. [PDF](https://academic.oup.com/g3journal/article-pdf/13/9/jkad149/56720105/jkad149.pdf)
 
 Philipp Kaufmann, **R. Axel W. Wiberg**, Konstantinos Papachristos, Douglas G. Scofield, Christian Tellgren-Roth, Elina Immonen. Y-linked copy number polymorphism of target of rapamycin (TOR) is associated with sexual size dimorphism in seed beetles. *Molecular Biology and Evolution*. **40**: msad167. [PDF](https://academic.oup.com/mbe/article-pdf/40/8/msad167/51089654/msad167.pdf)
 
 Elina Immonen, Ahmed Sayadi, Biljana Stojković, Uroš Savković, Mirko Đorđević,7 Johanna Liljestrand-Rönn, **R. Axel W. Wiberg**, Göran Arnqvist. Experimental life history evolution results in sex specific evolution of gene expression in seed beetles. *Genome Biology and Evolution* **15**: 1-15. [PDF](https://academic.oup.com/gbe/article-pdf/15/1/evac177/48597495/evac177.pdf)
+
 
 **2022**  
 **R. Axel W. Wiberg\***, Gudrun Viktorin & Lukas Schärer. Gene presence/absence patterns and their relation to differences in mating strategies in *Macrostomum*. *Evolution* **76**: 3054-3066. [PDF](https://doi.org/10.1111/evo.14635)
