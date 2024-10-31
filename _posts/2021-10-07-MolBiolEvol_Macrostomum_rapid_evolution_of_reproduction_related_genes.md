@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rapid evolution of reproduction-related genes in a group of hermaphroditic flatworms.
+title: Rapid evolution of reproduction-related genes in a group of hermaphroditic flatworms
 subtitle: My contributions to a large comparative project bear fruit.
 ---
 
